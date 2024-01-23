@@ -40,7 +40,7 @@ Runs a random screensaver after set delay.  Comes with 12 screensavers.
 Set the delay in the settings menu.
 
 ## Download
-https://github.com/papa-boynton/PC_Scanner/releases/tag/latest
+https://github.com/papa-boynton/IdleScreen/releases/tag/latest
 
 ## Credits
 Written by [TheyCallMePapa](https://github.com/papa-boynton).
