@@ -2,7 +2,7 @@
   <br>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="Images/LogoLight.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="Images/LogoDark.png">
+  <img alt="Shows black picture in light color mode and a white picture in dark color mode." src="Images/LogoDark.png">
   </picture>
   <!--a href="#"><img src="Images/Logo.png" alt="Logo" width="200"></a-->
   <br>
