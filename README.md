@@ -31,7 +31,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](Images/Screenshot.png)
+![screenshot](Images/ScreenShot.png)
 
 ## Key Features
 Runs a random screensaver after set delay.  Comes with 12 screensavers.
